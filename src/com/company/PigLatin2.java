@@ -35,7 +35,7 @@ public class PigLatin2 {
 
                     String constanant = userWord.substring(i);
                     constanant += userWord.substring(0, i);
-                    System.out.println(constanant + "way");
+                    System.out.println(constanant + "ay");
                     System.out.println("Would you like totranslate another word? (yes/no)");
 
 
